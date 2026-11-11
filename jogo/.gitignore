@@ -1,0 +1,7 @@
+jogo
+
+.DS_Store
+
+*.o
+perguntas/perguntas.bin
+perguntas/perguntas.bin.tmp
